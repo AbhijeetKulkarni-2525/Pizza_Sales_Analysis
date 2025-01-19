@@ -1,5 +1,5 @@
 
-## **Pizza Sales Analysis with SQL and Power BI**
+## **Pizza_Sales_Analysis with SQL and Power BI**
 
 This project aims to analyze and visualize key performance indicators (KPIs) for pizza sales to gain insights into the business performance. The analysis includes calculating important KPIs and creating interactive dashboards to visualize the trends and sales data for various pizzas.
 
